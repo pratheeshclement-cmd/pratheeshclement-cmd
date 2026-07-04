@@ -1,11 +1,11 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0b0b1e&height=250&section=header&text=SHOGUN%20DEVELOPER&fontSize=65&textColor=00D2FF&desc=Frontend%20Architect%20%7C%20Digital%20Growth%20Strategist&descSize=20&descAlignY=65&fontAlignY=38&theme=dark" width="100%" /></p>
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0b0b1e&height=220&section=header&text=SHOGUN%20ENGINEER&fontSize=65&textColor=00D2FF&desc=Frontend%20UI%20Architect%20%7C%20Performance%20Marketer&descSize=20&descAlignY=65&fontAlignY=38&theme=dark" width="100%" /></p>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/d1E2vyhPs0vSQ/giphy.gif" width="70%" style="border-radius: 12px; border: 2px solid #1E1E38;" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&duration=4000&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Frontend+Engineer+%E2%9C%96+Growth+Marketer;Zoro's+Discipline%3A+Daily+Sharpening;Itachi's+Wisdom%3A+Clean+Architectures;Eren's+Freedom%3A+Breaking+All+Limits" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Full-Stack+Engineer+%E2%9C%96+Growth+Lead;Zoro's+Discipline%3A+Santoryu+Coding;Itachi's+Wisdom%3A+Sharingan+Architecture;Eren's+Freedom%3A+Breaking+Performance+Walls" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,530 +16,203 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/octocat?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/octocat?label=Stars&style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/octocat?label=Followers&style=flat-square" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/octocat?label=Stars&style=flat-square" alt="Stars" />
   <img src="https://gpvc.arturio.dev/octocat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="assets/divider.svg" width="100%" />
-</p>
+<p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
----
+## 👁️ ABOUT ME: COGNITIVE SYSTEM INTERFACE
 
-## 🌌 INDEX OF ARCHETYPES
+I am a **Frontend UI Architect** and a **Growth Automation Engineer**. I specialize in building visually premium, performance-optimized React/Next.js platforms and syncing them with server-side tagging, technical SEO, and database pipelines to drive business conversion.
 
-The developer journey is not merely a path of writing code; it is a battle of philosophies, continuous adaptation, and self-mastery. This profile is structured around the principles of six legendary figures:
+### 🌌 OPERATIONAL SCOPE
+*   **Who I Am**: A technical specialist bridging the gap between pixel-perfect design systems and scalable analytics architectures.
+*   **Mission**: Maximize digital output by merging clean, high-performance UI structures with pixel-perfect tracking pipelines.
+*   **Vision**: Build conversion-driven headless structures that load in under 1 second and rank natively on page 1 of Google search.
+*   **Current Focus**: Server-side tagging containers, edge computing integrations, and core web vital optimization.
+*   **Learning Journey**: Studying Rust-based tooling, Astro island architectures, and localized web crawlers.
+*   **Career Goal**: Headless E-commerce infrastructure engineering and marketing analytics orchestration at scale.
 
-| Character | Theme | Developer Analogy | Goal & Focus |
-| :--- | :--- | :--- | :--- |
-| **🏴‍☠️ Luffy** | Freedom & Dreams | Boundless Innovation & Growth | Navigating the Grand Line of web engineering. |
-| **⚔️ Zoro** | Discipline & Consistency | Daily Coding & Skill Sharpening | Refactoring, code kata, and structural optimization. |
-| **👁️ Itachi** | Wisdom & Calmness | System Architecture & Security | Clean code patterns, system resilience, and strategy. |
-| **🌑 Obito** | Duality & Adaptation | Problem Solving & Failure Recovery | Refactoring legacy systems, adapting to crash scenarios. |
-| **🪽 Eren** | Freedom & Forward Motion | Future Technologies & Scale | Pushing bounds in performance and breaking system walls. |
-| **⚔️ Thorfinn** | Peace & Growth | Humility & Team Collaboration | Open-source contribution, mentoring, clean documentation. |
+### 📜 DEVELOPER & MARKETING PHILOSOPHY
+*   **Developer Mindset**: Write code that is dry, clean, and easily refactorable. Delete dead scripts instantly.
+*   **Digital Marketing Law**: Untracked metrics are lost capital. Build absolute attribution loops that bypass ad-blockers.
+*   **Anime Metaphor**: Approach coding with Zoro's discipline, structure with Itachi's wisdom, and scale with Eren's drive.
+*   **Daily Motivation**: "Every optimization made is an direct improvement to conversion speed and user retention."
 
-<br />
+<p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
-<p align="center">
-  <img src="assets/divider.svg" width="100%" />
-</p>
+## 🖥️ SHOGUN INTERACTIVE TERMINAL
 
----
+<p align="center"><img src="assets/terminal_header.svg" width="100%" /></p>
 
-## 👁️ ABOUT ME: THE SHADOW PATH
-
-I am a hybrid of a **Frontend Architect** and a **Digital Growth Engineer**. By combining highly interactive web experiences with technical SEO, tracking pipelines, and targeted data analytics, I build digital products that perform at the highest scale.
-
-*   **Who I Am**: A builder who views the web canvas as a cinematic interface.
-*   **Mission**: To eliminate slow, bloated, and unoptimized applications, replacing them with fluid, user-first, and highly-scalable solutions.
-*   **Vision**: Merging premium UI aesthetics with strict performance metrics to maximize conversion and engagement.
-*   **Current Focus**: Next.js Server Components, headless architectures, dynamic automation workflows, and advanced event-tracking configurations.
-
-### 🌌 DEV & ANIME PHILOSOPHIES
-> *"If you don't take risks, you can't create a future."* — **Monkey D. Luffy**
-*   **Code as a Sword**: Just as Zoro polishes his blades, I polish my functions. Unused libraries are dead weight; high bundle sizes are weaknesses.
-*   **The Architect's Sacrifice**: Just as Itachi sacrificed everything for a larger vision, I prioritize structural simplicity and clean separation of concerns over clever, over-engineered code.
-
-<br />
-
-<p align="center">
-  <img src="assets/divider.svg" width="100%" />
-</p>
-
----
-
-## 🏴‍☠️ LUFFY'S GRAND LINE: THE CAREER JOURNEY
-
-### 🗺️ The Nautical Logbook
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/SJds3vJJ2Mg06i9t6V/giphy.gif" width="45%" style="border-radius: 10px; border: 2px solid #1E1E38; margin-bottom: 15px;" />
-</p>
-
-```mermaid
-timeline
-    title The Developer Voyage
-    2020 : East Blue : HTML5 & CSS3 Foundations : Dynamic layouts & styling
-    2021 : Entering the Grand Line : JavaScript & React : DOM management & SPA development
-    2022 : Alabasta & Water 7 : Next.js & Technical SEO : Server-Side Rendering & Core Web Vitals
-    2023 : Marineford Crisis : Advanced Tracking & Databases : GA4, GTM, high-traffic analytics
-    2024 : Wano Country Arc : Full-stack Autonomy & AI : Automated funnels & AI integrations
-```
-
-#### ⚓ Log 01: The East Blue Voyage (2020 - 2021) — *Foundations*
-The journey began with the base elements of the web. Understanding semantics, building layouts from Figma mocks, and mastering CSS transitions.
-*   **Achievements**: Built over 50 responsive static pages, mastered custom CSS animations, and built clean layout foundations.
-*   **Key Lesson**: A strong foundation is the key to surviving the stormy seas of development.
-
-#### ⚓ Log 02: Entering the Grand Line (2021 - 2022) — *Frameworks & Scaling*
-Transitioned from static documents to dynamic, state-driven interfaces. Adopted React and built a robust understanding of component life cycles.
-*   **Achievements**: Developed interactive dashboards, migrated jQuery systems to modern state managers, and minimized DOM bottlenecks.
-*   **Key Lesson**: A captain is only as good as their crew; modular structures make systems reliable.
-
-#### ⚓ Log 03: The Enies Lobby Breakthrough (2022 - 2023) — *Performance & SEO*
-Dived deep into Server-Side Rendering (SSR) and SEO. Recognized that a beautiful website is useless if no one can find it.
-*   **Achievements**: Improved Largest Contentful Paint (LCP) by 45% on enterprise landing pages and set up clean site schemas.
-*   **Key Lesson**: Speed is freedom. The user should never be kept waiting.
-
-#### ⚓ Log 04: The Marineford War (2023 - 2024) — *Data & Integration*
-Integrated marketing platforms, server-side Tag Manager containers, and database analytics.
-*   **Achievements**: Set up full-funnel custom event tracking, handling 50k+ daily events across multiple marketing channels.
-*   **Key Lesson**: Unmeasured traffic is lost potential. Track accurately to navigate safely.
-
-#### ⚓ Log 05: The Wano Country Arc (2024 - Present) — *Gear Fifth: Absolute Autonomy*
-Leveraging AI, automated pipelines, and full-stack control to build digital operations.
-*   **Achievements**: Developed AI-powered content automation platforms, headless e-commerce platforms, and advanced conversion paths.
-*   **Key Lesson**: Limits are illusions. Keep moving forward until the canvas bend to your will.
-
-<br />
-
-<p align="center">
-  <img src="assets/divider.svg" width="100%" />
-</p>
-
----
-
-## ⚔️ ZORO'S DISCIPLINE: DAILY TRAINING LOG
-
-To master a craft, consistency is non-negotiable. Below is the training program designed to keep skills sharp and code clean.
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/4OV1bLOIWwIXRxpAiE/giphy.gif" width="45%" style="border-radius: 10px; border: 2px solid #1E1E38; margin-bottom: 15px;" />
-</p>
-
-```
-       ___________________________________________
-      [  DAILY TRAINING ROUTINE - THE THREE SWORDS ]
-       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-       06:00 - 09:00 | [I] SHARPENING THE BLADE (LeetCode, Katas, TS Types)
-       09:00 - 17:00 | [II] COMBAT DRILLS (Building React, Next.js, SEO funnels)
-       17:00 - 20:00 | [III] STUDYING HAKI (System architecture, analytics updates)
-       ___________________________________________
-```
-
-### 🗓️ Weekly Habit Tracker
-- [x] **Monday**: Code optimization review & refactoring.
-- [x] **Tuesday**: Algorithmic puzzle challenges (LeetCode / Codewars).
-- [x] **Wednesday**: Performance analysis of current projects (Web Dev Vitals).
-- [x] **Thursday**: Marketing funnel audit and Pixel conversion verification.
-- [x] **Friday**: Open Source contributions and library updates.
-- [x] **Saturday**: Visual and UX design explorations in Figma.
-- [ ] **Sunday**: Strategy formulation and pipeline architectural planning.
-
-<br />
-
-<p align="center">
-  <img src="assets/divider.svg" width="100%" />
-</p>
-
----
-
-## 👁️ ITACHI'S WISDOM: ARCHITECTURAL CODE LAWS
-
-True wisdom is knowing how to build systems that last. I follow a strict set of design rules to keep applications fast, clean, and secure:
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/C3brYLms1jCoU/giphy.gif" width="45%" style="border-radius: 10px; border: 2px solid #1E1E38; margin-bottom: 15px;" />
-</p>
-
-```
-                  _.._
-                .'    `.
-               /   __   \
-            ,  |  /  \  |  ,
-            \  \  \__/  /  /
-             \  `..__..'  /
-          ____`--......--'____
-         [    THE ARCHITECT LAWS   ]
-```
-
-1.  **The Sharingan Eye (Code Reviews)**
-    *   Inspect changes line by line.
-    *   Verify complexity, enforce DRY (Don't Repeat Yourself), and write defensive code to avoid runtime crashes.
-2.  **The Tsukuyomi Illusion (Mocking & Simulation)**
-    *   Simulate high latency and poor network connections.
-    *   Optimize rendering behavior to ensure a smooth user experience.
-3.  **The Amaterasu Flame (Pruning Code)**
-    *   Remove unused files, packages, and dead CSS routes.
-    *   Keep bundles light and load speeds high.
-4.  **The Izanami Loop (Automated Testing)**
-    *   Configure CI/CD pipelines to run test suites automatically.
-    *   Catch bugs before they reach the main branch.
-
-<br />
-
-<p align="center">
-  <img src="assets/divider.svg" width="100%" />
-</p>
-
----
-
-## 🌑 OBITO'S TRANSFORMATION: LESSONS FROM FAILURE
-
-Every setback is an opportunity to improve. Here is a breakdown of system failures and the architectural lessons they provided:
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/T1Q6l0WcgStoc/giphy.gif" width="45%" style="border-radius: 10px; border: 2px solid #1E1E38; margin-bottom: 15px;" />
-</p>
-
-### 📔 The Archive of Trials
-
-*   **The Black Friday Event Crash (2022)**
-    *   *What Happened*: High concurrent traffic overloaded the backend server during a marketing push, causing API failures.
-    *   *The Lesson*: Rebuilt the frontend as a statically generated Next.js application, caching API responses at the edge.
-*   **The Analytics Event Sync Error (2023)**
-    *   *What Happened*: A sudden browser change blocked client-side Meta Pixels, causing a 30% drop in reported attribution data.
-    *   *The Lesson*: Migrated to server-side event tracking using Google Tag Manager and the Meta Conversions API (CAPI).
-*   **The Core Web Vitals Drop (2023)**
-    *   *What Happened*: Overusing third-party analytics scripts lowered mobile PageSpeed scores to 42.
-    *   *The Lesson*: Set up script loading controls and offloaded non-essential scripts to Partytown workers.
-
-<br />
-
-<p align="center">
-  <img src="assets/divider.svg" width="100%" />
-</p>
-
----
-
-## 🪽 EREN'S FREEDOM: FUTURE AMBITIONS
-
-### 🌌 Horizon Roadmap
-I will keep moving forward until the goal is achieved. Here are the target technologies and goals for the next year:
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/c65HDq5HNLvi8/giphy.gif" width="45%" style="border-radius: 10px; border: 2px solid #1E1E38; margin-bottom: 15px;" />
-</p>
-
-*   **Next-Gen Web Frameworks**: Transitioning performance-critical sites to Qwik and Astro.
-*   **Machine Learning Integrations**: Using LLM endpoints to automate copywriting and run multivariate landing page tests.
-*   **Web3 & Decentralized Hosting**: Creating resilient frontend deployments using IPFS and ENS routing.
-*   **Global Scale**: Reaching 10 Million page views per month across all deployed clients.
-
-> *"If you don't fight, you can't win."* — **Eren Yeager**
-
-<br />
-
-<p align="center">
-  <img src="assets/divider.svg" width="100%" />
-</p>
-
----
-
-## ⚔️ THORFINN'S PATH: HUMILITY & COLLABORATION
-
-Building software is a team effort. My development philosophy focuses on clear communication, clean documentation, and collaboration:
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/v2s15tBRtqNww/giphy.gif" width="45%" style="border-radius: 10px; border: 2px solid #1E1E38; margin-bottom: 15px;" />
-</p>
-
-```
-            |\_________________________________
-            | [   I HAVE NO ENEMIES - CODE LAW  ]
-            |/~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-```
-
-*   **Mentor and Support**: Writing clear comments to help other developers understand the code.
-*   **Active Listening**: Using code reviews to learn from colleagues and improve my work.
-*   **Empathy for the User**: Designing interfaces that are accessible to all users, regardless of device or network speed.
-*   **Community Contribution**: Contributing to open-source libraries and sharing tips with the developer community.
-
-<br />
-
-<p align="center">
-  <img src="assets/divider.svg" width="100%" />
-</p>
-
----
-
-## 🖥️ ANIME TERMINAL v1.0.4
-
-Below is a simulated command console. Expand the rows below to inspect my technical setup:
-
-<p align="center">
-  <img src="assets/terminal_header.svg" width="100%" />
-</p>
-
-<details>
-  <summary>🖥️ <code>$ whoami</code></summary>
+<details open>
+  <summary><b>$ whoami</b></summary>
   <pre>
   {
-    "username": "shogun_developer",
-    "role": "Frontend Architect / Growth Engineer",
-    "philosophies": ["Freedom", "Discipline", "Wisdom"],
-    "location": "Remote / Global"
+    "identity": "Shogun Developer",
+    "role": "Frontend UI Architect & Growth Automation Engineer",
+    "location": "Global / Remote",
+    "languages": ["TypeScript", "JavaScript", "Rust", "Python", "PHP"],
+    "interfaces": ["REST", "GraphQL", "gRPC", "WebSockets"],
+    "philosophies": {
+       "ambition": "Luffy's Freedom",
+       "routine": "Zoro's Discipline",
+       "standards": "Itachi's Wisdom",
+       "resilience": "Obito's Transformation"
+    }
   }
   </pre>
 </details>
 
 <details>
-  <summary>🚀 <code>$ current_mission</code></summary>
+  <summary><b>$ skills</b></summary>
   <pre>
-  Optimizing Core Web Vitals for enterprise clients.
-  Building server-side tracking pipelines to bypass ad-blockers.
-  Writing high-performance React components with sleek CSS motions.
+  [+] React / Next.js (SSR, ISR, Edge Hydration, App Router)
+  [+] Technical SEO (Structured Data, Indexation Speed, Vitals Tuning, Core Vitals)
+  [+] Automation Engineering (n8n pipelines, Webhooks, custom Node.js scripts)
+  [+] Event Attribution (GTM Server-Side, Conversions API, Pixel Tuning, Tracking Loops)
+  [+] Style Frameworks (Tailwind CSS, Vanilla CSS, Styled Components)
   </pre>
 </details>
 
 <details>
-  <summary>🛠️ <code>$ tech_stack</code></summary>
+  <summary><b>$ tech_stack</b></summary>
   <pre>
-  Next.js, TypeScript, TailwindCSS, Node.js, GA4, Meta API, MongoDB, Vercel.
+  {
+    "frontend": ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    "backend": ["Node.js", "Express.js", "PHP"],
+    "database": ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
+    "cloud": ["Vercel", "Netlify", "Docker", "AWS S3"]
+  }
   </pre>
 </details>
 
 <details>
-  <summary>🌌 <code>$ anime_mode</code></summary>
+  <summary><b>$ current_project</b></summary>
   <pre>
-  [+] Active: Gear Fifth
-  [+] Haki Level: Conqueror
-  [+] Swords Equipped: Wado Ichimonji, Sandai Kitetsu, Shusui
-  [+] Sharingan: Activated
+  [+] Thousand Sunny Headless Store:
+      - Link: https://github.com/octocat
+      - Speed: 99/100 Mobile Performance Score
+  [+] Tsukuyomi Event Validator:
+      - Link: https://github.com/octocat
+      - Status: Active Maintenance
   </pre>
 </details>
 
 <details>
-  <summary>⚡ <code>$ run test_speed</code></summary>
+  <summary><b>$ learning</b></summary>
   <pre>
-  > next-app@15.0.0 test:performance
-  > lighthouse-ci --url=https://current-project.vercel.app
-
-  Performance: 100/100
-  Accessibility: 100/100
-  Best Practices: 100/100
-  SEO: 100/100
-  
-  [SUCCESS] All limits broken. Speed is absolute.
+  [+] Astro Island Architectures for partial hydration.
+  [+] Custom vector indices to map search trends.
+  [+] Rust-based WebAssembly modules for fast processing.
   </pre>
 </details>
 
-<br />
+<details>
+  <summary><b>$ digital_marketing</b></summary>
+  <pre>
+  [+] Channel Management: Google Search Ads, Display Ads, Meta Retargeting Campaigns
+  [+] Tracking Pipelines: Meta Conversions API, Server-side Google Tag Manager
+  [+] Analytics Dashboards: Looker Studio, Google Search Console metrics
+  </pre>
+</details>
 
-<p align="center">
-  <img src="assets/divider.svg" width="100%" />
-</p>
+<details>
+  <summary><b>$ github_status</b></summary>
+  <pre>
+  - Total Commits: Active
+  - Contribution Grid: Green
+  - Pipeline Status: Successful
+  - Uptime Rate: 99.99%
+  </pre>
+</details>
 
----
+<details>
+  <summary><b>$ future_goal</b></summary>
+  <pre>
+  Migrate client legacy systems to modern headless models, reducing LCP metrics below 800ms.
+  Double conversions by linking user behavioral logs to real-time content generators.
+  </pre>
+</details>
 
-## 🛠️ TECH STACK & MARKETING MATRIX
+<details>
+  <summary><b>$ anime_mode</b></summary>
+  <pre>
+  - Haki status: Conqueror
+  - Sharingan: Active (Visual check for visual bugs)
+  - Sword style: Santoryu (HTML, CSS, JS)
+  - Transformation state: Gear Fifth
+  </pre>
+</details>
 
-A modern application must combine engineering efficiency with marketing visibility:
+<details>
+  <summary><b>$ motivation</b></summary>
+  <pre>
+  "I will keep moving forward until all rendering blockages are destroyed." — Eren Yeager
+  "Discipline is the line between amateur and master." — Roronoa Zoro
+  </pre>
+</details>
 
-### ⚙️ Frontend & Engineering
+<p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
-```
-Frontend:     HTML5  |  CSS3/SCSS  |  JavaScript  |  TypeScript  |  React  |  Next.js
-Backend:      Node.js  |  Express.js  |  RESTful APIs  |  GraphQL
-Databases:    MongoDB  |  MySQL  |  PostgreSQL  |  Firebase
-Platforms:    Vercel  |  Netlify  |  AWS S3  |  Docker  |  Git / GitHub
-```
+## 🛠️ TECH STACK & MARKETING ENGINE
 
-### 📈 Digital Growth & Analytics
+| Layer | Technologies & Tools |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Bootstrap |
+| **Backend & DB** | Node.js, Express.js, PHP, MySQL, MongoDB, Firebase |
+| **Cloud & Hosting** | Vercel, Netlify, GitHub Pages, Docker |
+| **Digital Marketing** | Google Ads, Meta Ads, GA4, Google Tag Manager, Search Console, Looker Studio, Meta CAPI |
+| **Automation & AI**| n8n, Zapier, Make, ChatGPT, Claude, GitHub Copilot, Cursor AI |
+| **Design & UI** | Figma, Photoshop, Canva, UI/UX Design, Responsive Layouts, Glassmorphism, SEO-Friendly UI |
 
-```
-SEO/Technical:   Site Audit  |  Schema Markup  |  Core Web Vitals  |  Indexation Rules
-Paid Media:      Google Ads Search & Display  |  Meta Ads Manager  |  Retargeting Funnels
-Data Pipelines:  Google Analytics (GA4)  |  Google Tag Manager (Server-Side)
-Reporting:       Looker Studio  |  Google Search Console  |  Mixpanel Analytics
-```
+<p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
-### 🤖 Automation & Tools
-*   **Development**: VS Code, Git CLI, Zsh, NPM, TurboRepo.
-*   **Design & Layouts**: Figma, Canva.
-*   **AI Integration**: Claude 3.5 Sonnet, GitHub Copilot.
+## 📈 DIGITAL MARKETING ARCHITECTURE
 
-<br />
+A modern site must load instantly and track accurately to ensure ads convert:
+*   **SEO Optimization**: Technical indexation setups, structured Schema configurations, on-page layout keyword density, off-page strategies, Google Search Console crawls, and page speed diagnostics.
+*   **Paid Media Manager**: Scaling multi-channel campaigns across Google Search/Display networks and Meta Ads platforms, matching user intent to custom landing pages.
+*   **Tracking Infrastructures**: Integrating Google Analytics 4 (GA4) with Server-Side Google Tag Manager (GTM) containers to retain parameters and bypass browser script blocks.
+*   **Remarketing Funnels**: Deploying server-side Meta Pixels, Conversions API integrations, custom audience builders, and automated performance dashboards on Looker Studio.
 
-<p align="center">
-  <img src="assets/divider.svg" width="100%" />
-</p>
-
----
-
-## 📊 SKILLS OVERVIEW
-
-Below is an overview of my core skills:
-
-<p align="center">
-  <img src="assets/skills.svg" alt="Skills visualization" width="100%" />
-</p>
-
-<br />
-
-<p align="center">
-  <img src="assets/divider.svg" width="100%" />
-</p>
-
----
+<p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
 ## 📦 PREMIUM PROJECTS
 
-### 🌟 Project 1: Thousand Sunny Headless Store
-An ultra-high performance headless commerce site utilizing Shopify APIs, Next.js, and Sanity CMS.
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=800&auto=format&fit=crop&q=60" alt="Sunny Project Banner" width="100%" />
-</p>
-
-*   **Status**: Deployed & Profitable ![Live](https://img.shields.io/badge/Status-Live-success?style=flat-square)
-*   **Stack**: Next.js (App Router), TailwindCSS, GraphQL, Shopify Storefront API.
-*   **Highlights**:
-    *   achieved **99/100 Mobile PageSpeed score**.
-    *   Server-side tracking configuration for precise attribution logs.
-    *   Dynamic animations using Framer Motion.
-*   **Links**: [Live Demo](https://github.com/octocat) | [Source Code](https://github.com/octocat)
+### 🏴‍☠️ Project 1: Thousand Sunny Storefront
+Headless Shopify storefront engineered with Next.js App Router and Sanity CMS for high-speed commerce operations.
+*   **Status**: Live & Profitable ![Success](https://img.shields.io/badge/Status-Success-green?style=flat-square)
+*   **Stack**: React, Next.js, GraphQL, TailwindCSS, Shopify API.
+*   **Features**: Incremental Static Regeneration (ISR), automated cart retention triggers, and custom SVG animations.
+*   **Metrics**: 99/100 Mobile performance score, 40% reduction in bounce rate.
+*   **Links**: [Live Demo](https://github.com/octocat) | [Repository](https://github.com/octocat)
 
 ---
 
-### 👁️ Project 2: Tsukuyomi GTM Event Engine
-A Node.js tool designed to inspect GTM server containers and catch tracking errors.
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&auto=format&fit=crop&q=60" alt="Tsukuyomi Project Banner" width="100%" />
-</p>
-
-*   **Status**: Open Source ![Maintainer](https://img.shields.io/badge/Maintainer-Active-blue?style=flat-square)
+### 👁️ Project 2: Tsukuyomi Event Validator
+A Node.js tool designed to inspect server-side Google Tag Manager hits and match parameters against database schemas.
+*   **Status**: Open Source ![Maintainer](https://img.shields.io/badge/Status-Active-blue?style=flat-square)
 *   **Stack**: TypeScript, Node.js, Express, Jest.
-*   **Highlights**:
-    *   Simulates GA4 protocols to verify server hits.
-    *   Includes a command line interface (CLI) with custom reporting tools.
-    *   Detects and alerts developers to broken event schemas.
-*   **Links**: [Live Demo](https://github.com/octocat) | [Source Code](https://github.com/octocat)
+*   **Features**: Streamlined terminal logging, payload validation rules, and Discord webhook alarm triggers.
+*   **Metrics**: Auto-detects 15 event logging issues in production within 5 seconds.
+*   **Links**: [Live Demo](https://github.com/octocat) | [Repository](https://github.com/octocat)
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
-### 🪽 Project 3: Yeager technical SEO Engine
-A Python search console monitoring script that alerts developers when critical routes drop out of search results.
+## 📊 SHADOW SKILLS ANALYSIS
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&auto=format&fit=crop&q=60" alt="Yeager Project Banner" width="100%" />
+  <img src="assets/skills.svg" alt="Skills bar chart" width="100%" />
 </p>
 
-*   **Status**: Production ![Active](https://img.shields.io/badge/Usage-Production-success?style=flat-square)
-*   **Stack**: Python, Google Search Console API, Slack Webhooks, AWS Lambda.
-*   **Highlights**:
-    *   Checks indexation data daily.
-    *   Sends automated alerts to Slack when pages drop from rankings.
-    *   Suggests structured data updates based on schema errors.
-*   **Links**: [Live Demo](https://github.com/octocat) | [Source Code](https://github.com/octocat)
+<p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
-<br />
+## 📊 GITHUB ANALYTICS
 
-<p align="center">
-  <img src="assets/divider.svg" width="100%" />   <!-- ====================================================================== -->
-<!-- CINEMATIC ANIME HERO BANNER                                            -->
-<!-- ====================================================================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=MARIYA%20PRATHEESH&fontSize=60&fontAlignY=35&animation=twinkling&theme=tokyonight" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5YTN3ZHZwbnpwN2p0eTk0ZzU1Y3V2ZHlxZzd0eWwzNXZ4ajBhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U56UKYAO8ToAM/giphy.gif" width="550" alt="Zoro Cinematic Focus" style="border-radius: 12px; border: 2px solid #7928CA; box-shadow: 0px 0px 25px rgba(121, 40, 202, 0.6);"/>
-</p>
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2600&pause=1000&color=39A0FF&center=true&vCenter=true&width=650&lines=🏴‍☠️+NAVIGATING+THE+GRAND+LINE+OF+INTERFACE+CODE;⚔️+MASTERING+THE+THREE-SWORD-STYLE+OF+DEVELOPMENT;👁️+EXECUTING+CLEAN+ARCHITECTURE+WITH+SHARINGAN+FOCUS;🪽+MOVING+FORWARD+UNTIL+THE+BUGS+ARE+DESTROYED" alt="Typing SVG" /></a>
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/pratheeshclement-cmd?label=CREW%20MEMBERS&style=for-the-badge&color=7928CA&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/pratheeshclement-cmd?label=BOUNTY%20STARS&style=for-the-badge&color=FFD700&logo=github" alt="Stars"/>
-  <img src="https://komarev.com/ghpvc/?username=pratheeshclement-cmd&label=CHAKRA%20VISITORS&color=00DFD8&style=for-the-badge" alt="Views" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/mariya-pratheesh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/pratheeshclement" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:pratheesh.clement@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider Line"/>
-</p>
-
-<!-- ====================================================================== -->
-<!-- PHILOSOPHY & AMBITION                                                  -->
-<!-- ====================================================================== -->
-## 👁️ INTELLECT BLOCK: THE ITACHI METHODOLOGY
-
-> *"Even the strongest of opponents always has a weakness."* — **Itachi Uchiha**
-
-I am a UI/UX-obsessed Frontend Engineer and Performance Growth Specialist navigating complex web landscapes. My architecture combines declarative interface models with highly accurate traffic optimization engines. By balancing visual depth with underlying network execution efficiency, I craft platforms built to transform passive visibility into absolute user retention.
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏴‍☠️ Pirate Captain Creed</h3>
-      <ul>
-        <li><strong>My Freedom:</strong> Engineering unconstrained client architectures running on single-pass render paradigms.</li>
-        <li><strong>The Horizon:</strong> Scaling discoverability indices natively across globally decentralized networks.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚔️ Zoro's Daily Mastery</h3>
-      <ul>
-        <li><strong>Continuous Execution:</strong> Refining code structure layout boundaries with extreme focus.</li>
-        <li><strong>Structural Shielding:</strong> Isolating processing layers to eliminate state leakage across core routines.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" alt="Divider Line"/>
-</p>
-
-<!-- ====================================================================== -->
-<!-- MISSION TERMINAL COMMAND LINE                                          -->
-<!-- ====================================================================== -->
-## 💻 DEV_TERMINAL://OBITO_SHADOW_SYS/
-
-```bash
-$ whoami
-> Mariya Pratheesh // Interface Architect & Digital Growth Vanguard
-
-$ current_mission
-> Overhauling DOM parsing pipelines & scaling marketing engines to 10x velocity.
-
-$ tech_stack
-> JavaScript, TypeScript, React, Next.js, GA4 Analytics, Technical SEO Engines.
-
-$ anime_mode
-> Active: Eternal Mangekyou Sharingan [Layout Optimization Routine Executing]
-
-$ future_goal
-> Deploying highly transparent, privacy-first user acquisition systems natively.
-</p>
-
----
-
-## 📊 GITHUB ANALYTICS & STATS
-
-Here is a live look at my commit history, coding languages, and activity metrics. These stats are generated automatically using active developer metrics:
+Live data generated via active developer statistics:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=tokyonight&bg_color=0b0b1e&hide_border=true&title_color=00d2ff&text_color=ffffff&icon_color=9d00ff" alt="GitHub Stats" width="48%" />
@@ -551,66 +224,80 @@ Here is a live look at my commit history, coding languages, and activity metrics
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=octocat&bg_color=0b0b1e&color=ffffff&line=00d2ff&point=ffd700&area=true&hide_border=true&area_color=9d00ff" alt="Activity Graph" width="100%" />
-</p>
-
-### 🏆 GITHUB TROPHIES
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=octocat&theme=tokyonight&no-bg=true&no-frame=true&margin-width=4" alt="Trophies" />
 </p>
 
-### 🐍 CONTRIBUTION SNAKE
 <p align="center">
   <img src="https://raw.githubusercontent.com/octocat/octocat/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-<br />
+<p align="center"><img src="assets/divider.svg" width="100%" /></p>
+
+## 🗺️ DEVELOPER JOURNEY: THE SIX PATHS
+
+*   **🏴‍☠️ Luffy's Grand Line (Career Journey)**: Set sail in 2020. Navigated HTML basics, scaled React apps, integrated server-side trackers, and took charge of frontend systems.
+*   **⚔️ Zoro's Discipline (Daily Training)**: Sharpening tools daily. Code kata drills, system architecture studies, and UI updates every morning.
+*   **👁️ Itachi's Wisdom (Clean Architecture)**: Build robust systems. Enforcing DRY, optimization of bundle payloads, and modular design.
+*   **🌑 Obito's Evolution (Transformation)**: Turning system outages into learnings. Rebuilding architectures from single-server points to multi-region CDNs.
+*   **🪽 Eren's Freedom (Innovation)**: Breaking limit markers. Deploying lightweight frameworks (Astro, Qwik) and custom CRM pipelines.
+*   **⚔️ Thorfinn's Path (Self Improvement)**: Humility first. Code reviews, open source tools, and constant learning updates.
+
+<p align="center"><img src="assets/divider.svg" width="100%" /></p>
+
+## 🎓 CERTIFICATIONS & ROADMAP
+
+*   **Next.js Expert Certification**: Advanced routing, rendering methods, and edge configurations.
+*   **Google Ads & Analytics Certification**: Pixel deployments, target schemas, and campaign attribution loops.
+*   **Systems Architecture Design Certificate**: Scalable database design and secure APIs.
+*   **Active Roadmap**: Completing core Rust implementations for server-side tools by Q4 2026.
+*   **Performance Marketing Masterclass**: In-depth audience funnels, technical tagging, and conversion rate optimization (CRO) setups.
+
+<p align="center"><img src="assets/divider.svg" width="100%" /></p>
+
+## 🔌 CONNECT WITH ME
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" />
+  <a href="https://linkedin.com/in/octocat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/octocat"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/octocat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:octocat@github.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://discord.gg/octocat"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://twitter.com/octocat"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://facebook.com/octocat"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
-## 🌌 EXTRAS & TROPHIES
+## 🌌 EXTRAS & METRICS
 
-### 🎧 Current Soundtrack
+### 🎧 Spotify Live Player
 <p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify?background_color=0b0b1e&border_color=1e1e38&text_color=ffffff&bar_color=00d2ff" alt="Spotify Stats" width="100%" />
+  <img src="https://novatorem.vercel.app/api/spotify?background_color=0b0b1e&border_color=1e1e38&text_color=ffffff&bar_color=00d2ff" alt="Spotify Live Tracker" width="100%" />
 </p>
 
-### 🏆 Competitive Coding Stats
-*   **LeetCode**: [octocat](https://leetcode.com/octocat)
-    *   Solved: 350+ Questions
-    *   Badges: 2024 Coding Streak, Top 15% Contributor
-*   **Codewars**: Rank 3 kyu
-*   **WakaTime**: Average 38 hours coding per week.
+*   **LeetCode Level**: 350+ Problems Solved | Rank Top 15%
+*   **Codewars Status**: Rank 3 kyu | 50+ Kata completed
+*   **HackerRank Level**: 5-Star coder in problem solving
+*   **WakaTime Metrics**: ~38 Hours Code Output Weekly
+*   **Dev Quote**: "Clean code always looks like it was written by someone who cares." — *Michael Feathers*
+*   **Anime Quote**: "I have no enemies." — *Thorfinn*
+*   **Random Coding Joke**: Why do programmers wear glasses? Because they can't C#!
+*   **Fun Fact**: I automate client report builds with custom Discord bots.
+*   **Milestone Target**: 100 consecutive days of production deployments without outages.
 
-### 🌟 Milestones Achieved
-*   [x] Deployed high-converting landing pages for 10+ clients.
-*   [x] Automated marketing workflows saving over 15 hours weekly.
-*   [x] Optimized web core vitals across multiple production systems.
-*   [x] Contributed templates and tools to the open-source community.
+<p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
-<br />
+## 🌊 FOOTER
 
-<p align="center">
-  <img src="assets/divider.svg" width="100%" />
-</p>
-
----
-
-## 🌊 THE WAVE ENDING
-
-Thank you for visiting my digital domain. If you want to discuss system architectures, performance optimizations, or frontend design, feel free to reach out.
+Thank you for visiting my profile. Let's build and optimize something legendary.
 
 <p align="center">
-  <a href="#-shogun-developer">
+  <a href="#-shogun-engineer">
     <img src="https://img.shields.io/badge/%E2%AC%86%EF%B8%8F-BACK%20TO%20TOP-00D2FF?style=for-the-badge&logoColor=white" alt="Back to Top" />
   </a>
 </p>
 
-> *"I do not know what the future holds, but I know I will keep moving forward."* — **Thorfinn**
+> *"If you don't take risks, you can't create a future."* — **Monkey D. Luffy**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0b1e&height=120&section=footer&theme=dark" width="100%" />
