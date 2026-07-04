@@ -449,7 +449,90 @@ A Python search console monitoring script that alerts developers when critical r
 <br />
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" />
+  <img src="assets/divider.svg" width="100%" />   <!-- ====================================================================== -->
+<!-- CINEMATIC ANIME HERO BANNER                                            -->
+<!-- ====================================================================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=MARIYA%20PRATHEESH&fontSize=60&fontAlignY=35&animation=twinkling&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5YTN3ZHZwbnpwN2p0eTk0ZzU1Y3V2ZHlxZzd0eWwzNXZ4ajBhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U56UKYAO8ToAM/giphy.gif" width="550" alt="Zoro Cinematic Focus" style="border-radius: 12px; border: 2px solid #7928CA; box-shadow: 0px 0px 25px rgba(121, 40, 202, 0.6);"/>
+</p>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2600&pause=1000&color=39A0FF&center=true&vCenter=true&width=650&lines=🏴‍☠️+NAVIGATING+THE+GRAND+LINE+OF+INTERFACE+CODE;⚔️+MASTERING+THE+THREE-SWORD-STYLE+OF+DEVELOPMENT;👁️+EXECUTING+CLEAN+ARCHITECTURE+WITH+SHARINGAN+FOCUS;🪽+MOVING+FORWARD+UNTIL+THE+BUGS+ARE+DESTROYED" alt="Typing SVG" /></a>
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/pratheeshclement-cmd?label=CREW%20MEMBERS&style=for-the-badge&color=7928CA&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/pratheeshclement-cmd?label=BOUNTY%20STARS&style=for-the-badge&color=FFD700&logo=github" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=pratheeshclement-cmd&label=CHAKRA%20VISITORS&color=00DFD8&style=for-the-badge" alt="Views" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/mariya-pratheesh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/pratheeshclement" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:pratheesh.clement@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider Line"/>
+</p>
+
+<!-- ====================================================================== -->
+<!-- PHILOSOPHY & AMBITION                                                  -->
+<!-- ====================================================================== -->
+## 👁️ INTELLECT BLOCK: THE ITACHI METHODOLOGY
+
+> *"Even the strongest of opponents always has a weakness."* — **Itachi Uchiha**
+
+I am a UI/UX-obsessed Frontend Engineer and Performance Growth Specialist navigating complex web landscapes. My architecture combines declarative interface models with highly accurate traffic optimization engines. By balancing visual depth with underlying network execution efficiency, I craft platforms built to transform passive visibility into absolute user retention.
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏴‍☠️ Pirate Captain Creed</h3>
+      <ul>
+        <li><strong>My Freedom:</strong> Engineering unconstrained client architectures running on single-pass render paradigms.</li>
+        <li><strong>The Horizon:</strong> Scaling discoverability indices natively across globally decentralized networks.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚔️ Zoro's Daily Mastery</h3>
+      <ul>
+        <li><strong>Continuous Execution:</strong> Refining code structure layout boundaries with extreme focus.</li>
+        <li><strong>Structural Shielding:</strong> Isolating processing layers to eliminate state leakage across core routines.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" alt="Divider Line"/>
+</p>
+
+<!-- ====================================================================== -->
+<!-- MISSION TERMINAL COMMAND LINE                                          -->
+<!-- ====================================================================== -->
+## 💻 DEV_TERMINAL://OBITO_SHADOW_SYS/
+
+```bash
+$ whoami
+> Mariya Pratheesh // Interface Architect & Digital Growth Vanguard
+
+$ current_mission
+> Overhauling DOM parsing pipelines & scaling marketing engines to 10x velocity.
+
+$ tech_stack
+> JavaScript, TypeScript, React, Next.js, GA4 Analytics, Technical SEO Engines.
+
+$ anime_mode
+> Active: Eternal Mangekyou Sharingan [Layout Optimization Routine Executing]
+
+$ future_goal
+> Deploying highly transparent, privacy-first user acquisition systems natively.
 </p>
 
 ---
