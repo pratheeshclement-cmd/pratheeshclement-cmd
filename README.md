@@ -1,192 +1,407 @@
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                    PRATHEESH CLEMENT                                ║
+║       Frontend Developer · Digital Marketing · AI                   ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-  <img src="./assets/pratheesh-profile.png" alt="Pratheesh Clement" width="150" style="border-radius: 50%;" />
+<img src="./assets/pratheesh-profile.png" width="190" alt="Pratheesh Clement" />
 
-  # PRATHEESH CLEMENT
+<br/>
 
-  **Frontend Developer · Digital Marketing Specialist · AI Enthusiast**
+# PRATHEESH CLEMENT
 
-  *"I build digital experiences, growth systems, and AI-assisted solutions."*
+### Frontend Developer · Digital Marketing Specialist · AI Enthusiast
 
-  <br />
+<br/>
 
+<p>
   <a href="https://pratheeshclement-cmd.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/pratheeshclement-cmd">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/mariya-pratheesh-5b8a9b316/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:pratheesh.clement@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+
+<br/>
+
+> **Building digital experiences, growth systems, and AI-assisted solutions.**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=pratheeshclement-cmd&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="Profile views" />
 
 </div>
 
-<br />
+<br/>
 
 ---
 
-## About Me
+## 01 · ABOUT ME
 
-I am Pratheesh Clement, a frontend developer and digital marketing specialist working at the intersection of technology, design, digital marketing, and artificial intelligence.
+I'm **Pratheesh Clement**, a frontend developer and digital marketing specialist exploring the intersection of **technology, design, growth, and artificial intelligence**.
 
-I focus on turning complex ideas into scalable web applications, SEO-driven digital platforms, and optimized AI workflows that drive tangible product growth and user engagement.
+I enjoy turning ideas into modern web experiences, digital products, SEO-driven experiences, and practical AI-assisted workflows.
+
+My work sits at the intersection of:
+
+<div align="center">
+
+**TECHNOLOGY** &nbsp; × &nbsp; **DESIGN** &nbsp; × &nbsp; **DIGITAL GROWTH** &nbsp; × &nbsp; **AI**
+
+</div>
 
 ---
 
-## What I Do
+## 02 · WHAT I DO
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Frontend Development</h3>
-      <ul>
-        <li>React & TypeScript Architecture</li>
-        <li>Modern JavaScript (ES6+)</li>
-        <li>Responsive Web Development</li>
-        <li>UI Implementation & UX Design</li>
-        <li>Web Performance Optimization</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📈 Digital Growth</h3>
-      <ul>
-        <li>Search Engine Optimization (SEO)</li>
-        <li>Google Ads & Meta Ads Management</li>
-        <li>Web Analytics & Tracking</li>
-        <li>Conversion Rate Optimization (CRO)</li>
-        <li>High-Converting Landing Pages</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 AI & Automation</h3>
-      <ul>
-        <li>AI-Assisted Web Development</li>
-        <li>Automated Workflow Architecture</li>
-        <li>AI Tool Integration & Optimization</li>
-        <li>Process & Developer Productivity</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚀 Product Development</h3>
-      <ul>
-        <li>Web Applications & Platforms</li>
-        <li>SaaS Concept Architecture</li>
-        <li>Product User Experience Design</li>
-        <li>Rapid Prototyping & MVPs</li>
-      </ul>
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ FRONTEND DEVELOPMENT
+
+Building responsive and purposeful web interfaces with a focus on usability, performance, and clean implementation.
+
+**Core areas**
+
+- React
+- TypeScript
+- JavaScript
+- Responsive Web Development
+- UI Implementation
+- Web Performance
+
+</td>
+
+<td width="50%" valign="top">
+
+### ◈ DIGITAL GROWTH
+
+Combining technology with digital marketing to create experiences designed for visibility, acquisition, and conversion.
+
+**Core areas**
+
+- SEO
+- Google Ads
+- Meta Ads
+- Analytics
+- Landing Pages
+- Conversion Optimization
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ◈ AI & AUTOMATION
+
+Exploring practical ways to use AI and automation to improve development workflows, research, productivity, and digital systems.
+
+**Core areas**
+
+- AI-assisted Development
+- AI Workflows
+- Automation
+- Workflow Optimization
+- AI Tools
+- Intelligent Systems
+
+</td>
+
+<td width="50%" valign="top">
+
+### ◈ PRODUCT DEVELOPMENT
+
+Turning ideas into structured digital products with attention to product experience, architecture, and usability.
+
+**Core areas**
+
+- Web Applications
+- SaaS Concepts
+- Product UX
+- Digital Products
+- Prototyping
+- Product Architecture
+
+</td>
+</tr>
 </table>
 
 ---
 
-## Featured Work
+## 03 · SELECTED WORK
 
 ### Personal Portfolio
 
 <div align="center">
-  <img src="./assets/portfolio-preview.png" alt="Personal Portfolio Preview" width="100%" />
+
+<img src="./assets/portfolio-preview.png" width="100%" alt="Pratheesh Clement Personal Portfolio" />
+
 </div>
 
-<br />
+<br/>
 
-A modern personal digital ecosystem engineered to showcase frontend development expertise, clean UI/UX design, search engine optimization, and integrated AI experiences.
+**A modern personal digital ecosystem combining frontend development, UI/UX, digital marketing, SEO, and AI-assisted experiences.**
 
-* **Key Focus:** Responsive Interface, Modern UI Architecture, SEO, Performance Optimization
-* **Tech Stack:** `React` · `TypeScript` · `Vite` · `UI/UX` · `SEO`
-* **Explore:** [View Personal Portfolio](https://pratheeshclement-cmd.github.io/)
+**Highlights**
 
-<br />
+- Responsive interface
+- Modern UI/UX
+- SEO focused
+- Performance focused
+- AI-assisted experiences
+
+**Built with**
+
+`React` `TypeScript` `Vite` `UI/UX` `SEO`
+
+<br/>
+
+<div align="center">
+
+<a href="https://pratheeshclement-cmd.github.io/">
+
+<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Portfolio" />
+
+</a>
+
+</div>
+
+---
 
 ### NET CENTER
 
-A service-first digital marketplace concept engineered to seamlessly connect citizens with digital service providers for efficient, assisted digital services.
+**A service-first digital marketplace concept designed to connect citizens with digital service providers for assisted digital services.**
 
-* **Core Areas:** Service Discovery, Provider Marketplace, Digital Workflows, Document Handling, Payment Workflows, Digital Assistance, Product Architecture
-* **Focus Domain:** `Product Development` · `SaaS` · `AI` · `Full Stack`
+NET CENTER explores how digital service workflows can be structured into a more accessible and scalable product experience.
+
+**Product areas**
+
+- Service discovery
+- Provider marketplace
+- Digital service workflows
+- Document handling
+- Payment workflow
+- Digital assistance
+- Product architecture
+
+**Focus**
+
+`Product Development` `SaaS` `AI` `Full Stack`
+
+> Project interface preview coming soon.
 
 ---
 
-## Technology
+## 04 · TECHNOLOGY
 
-| Domain | Technologies & Tools |
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend technologies" />
+</p>
+
+### Backend & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,php,mysql,mongodb,firebase" alt="Backend and data technologies" />
+</p>
+
+### Design & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ps,git,github,vscode" alt="Design and development tools" />
+</p>
+
+### Digital Marketing
+
+<div align="left">
+
+`SEO` &nbsp; `Google Ads` &nbsp; `Meta Ads` &nbsp; `Google Analytics` &nbsp; `Google Tag Manager`
+
+</div>
+
+### AI & Automation
+
+<div align="left">
+
+`ChatGPT` &nbsp; `Claude` &nbsp; `Google Gemini` &nbsp; `GitHub Copilot` &nbsp; `n8n` &nbsp; `Zapier` &nbsp; `Make`
+
+</div>
+
+---
+
+## 05 · DIGITAL MARKETING & GROWTH
+
+I approach digital marketing from both the **creative and technical side** — connecting discoverability, user experience, analytics, and conversion.
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### SEO
+
+Search visibility  
+Technical SEO  
+Content strategy
+
+</td>
+
+<td align="center" width="25%">
+
+### PAID ADS
+
+Google Ads  
+Meta Ads  
+Campaign strategy
+
+</td>
+
+<td align="center" width="25%">
+
+### ANALYTICS
+
+GA4  
+GTM  
+Performance tracking
+
+</td>
+
+<td align="center" width="25%">
+
+### CONVERSION
+
+Landing pages  
+UX optimization  
+Conversion strategy
+
+</td>
+</tr>
+</table>
+
+---
+
+## 06 · CURRENTLY EXPLORING
+
+<div align="center">
+
+| Focus | Direction |
 | :--- | :--- |
-| **Frontend** | `HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS` `Bootstrap` |
-| **Backend & Data** | `Node.js` `PHP` `MySQL` `MongoDB` `Firebase` |
-| **Design** | `Figma` `Adobe Photoshop` |
-| **Development** | `Git` `GitHub` `VS Code` |
-| **Digital Marketing** | `SEO` `Google Ads` `Meta Ads` `Google Analytics` `Google Tag Manager` |
-| **AI & Automation** | `ChatGPT` `Claude` `Google Gemini` `GitHub Copilot` `n8n` `Zapier` `Make` |
-
----
-
-## Digital Marketing & Growth
-
-Modern software engineering requires a strong understanding of product adoption. I combine frontend engineering with technical marketing strategies to build software that performs visually and commercially.
-
-* **SEO & Discoverability:** On-page structure, speed performance, and search visibility.
-* **Performance Marketing:** Acquisition strategies using Google Ads and Meta Ads campaigns.
-* **Data-Driven Optimization:** Tracking user journeys via Google Analytics and Google Tag Manager to drive conversion optimization.
-
----
-
-## Currently Exploring
-
-* **AI Engineering:** Integrating LLM workflows and autonomous agents into developer pipelines.
-* **Advanced Frontend Architecture:** Scalable design systems and component resilience.
-* **SaaS Product Design:** Building lean, product-led platforms focused on user utility.
-* **Automation Systems:** Constructing cross-platform automated web services using n8n and Make.
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=pratheeshclement-cmd&show_icons=true&theme=slate&hide_border=true&title_color=2563EB&icon_color=7C3AED&text_color=0F172A&bg_color=F8FAFC" alt="Pratheesh Clement Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratheeshclement-cmd&layout=compact&theme=slate&hide_border=true&title_color=2563EB&text_color=0F172A&bg_color=F8FAFC" alt="Top Languages" height="150" />
+| **AI Engineering** | Building stronger foundations in AI-driven systems |
+| **AI-assisted Development** | Improving development workflows with AI |
+| **Automation Systems** | Designing practical automated workflows |
+| **SaaS Product Development** | Exploring scalable digital product ideas |
+| **Frontend Architecture** | Building cleaner and more maintainable web applications |
+| **Digital Product Design** | Combining UX, technology, and product thinking |
 
 </div>
 
 ---
 
-## Let's Connect
-
-Interested in technology, digital products, frontend development, digital marketing, or AI? Let's connect.
-
-<br />
+## 07 · HOW I BUILD
 
 <div align="center">
 
-  <a href="https://pratheeshclement-cmd.github.io/">
-    <img src="https://img.shields.io/badge/Website-pratheeshclement--cmd.github.io-2563EB?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/mariya-pratheesh-5b8a9b316/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mariya_Pratheesh-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/pratheeshclement-cmd">
-    <img src="https://img.shields.io/badge/GitHub-pratheeshclement--cmd-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:pratheesh.clement@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pratheesh.clement@gmail.com-EF4444?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+### THINK
+
+↓
+
+### DESIGN
+
+↓
+
+### DEVELOP
+
+↓
+
+### TEST
+
+↓
+
+### DEPLOY
+
+↓
+
+### OPTIMIZE
+
+↓
+
+### REPEAT
 
 </div>
 
-<br />
+<br/>
+
+> **Good products are not finished when they work.  
+> They improve when people use them.**
 
 ---
 
+## 08 · GITHUB ACTIVITY
+
 <div align="center">
 
-  *Build with purpose. Learn continuously. Improve relentlessly.*
+<a href="https://github.com/pratheeshclement-cmd">
 
-  **Thanks for visiting my profile.**
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=pratheeshclement-cmd&show_icons=true&hide_border=true&bg_color=F8FAFC&title_color=0F172A&text_color=475569&icon_color=2563EB&rank_icon=github" alt="Pratheesh's GitHub statistics" />
+
+</a>
+
+<a href="https://github.com/pratheeshclement-cmd">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratheeshclement-cmd&layout=compact&hide_border=true&bg_color=F8FAFC&title_color=0F172A&text_color=475569" alt="Pratheesh's top languages" />
+
+</a>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratheeshclement-cmd&bg_color=F8FAFC&color=0F172A&line=2563EB&point=7C3AED&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+---
+
+## 09 · PROFESSIONAL INTERESTS
+
+```text
+Frontend Development
+        │
+        ├── UI / UX
+        ├── Performance
+        └── Web Architecture
+
+Digital Marketing
+        │
+        ├── SEO
+        ├── Paid Advertising
+        ├── Analytics
+        └── Conversion
+
+Artificial Intelligence
+        │
+        ├── AI-assisted Development
+        ├── Automation
+        ├── AI Workflows
+        └── Product Applications
+
+Product Development
+        │
+        ├── Web Applications
+        ├── SaaS
+        ├── Product UX
+        └── Digital Experiences
