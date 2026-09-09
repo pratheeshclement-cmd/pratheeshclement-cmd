@@ -1,160 +1,104 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════╗
-║                    PRATHEESH CLEMENT                                ║
-║       Frontend Developer · Digital Marketing · AI                   ║
-╚══════════════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-<img src="./assets/pratheesh-profile.png" width="190" alt="Pratheesh Clement" />
+<img src="./assets/pratheesh-profile.png" alt="Pratheesh Clement" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #2563EB;" />
 
-<br/>
+<h1 align="center" style="color:#0F172A;">Pratheesh Clement</h1>
 
-# PRATHEESH CLEMENT
-
-### Frontend Developer · Digital Marketing Specialist · AI Enthusiast
-
-<br/>
-
-<p>
-  <a href="https://pratheeshclement-cmd.github.io/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/pratheeshclement-cmd">
-    <img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/mariya-pratheesh-5b8a9b316/">
-    <img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:pratheesh.clement@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<p align="center">
+<b>Frontend Developer</b> &nbsp;·&nbsp; <b>Digital Marketing Specialist</b> &nbsp;·&nbsp; <b>AI Enthusiast</b>
 </p>
 
-<br/>
+<p align="center">
+<i>Building digital experiences, growth systems, and AI-assisted solutions.</i>
+</p>
 
-> **Building digital experiences, growth systems, and AI-assisted solutions.**
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=pratheeshclement-cmd&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="Profile views" />
-
-</div>
-
-<br/>
-
----
-
-## 01 · ABOUT ME
-
-I'm **Pratheesh Clement**, a frontend developer and digital marketing specialist exploring the intersection of **technology, design, growth, and artificial intelligence**.
-
-I enjoy turning ideas into modern web experiences, digital products, SEO-driven experiences, and practical AI-assisted workflows.
-
-My work sits at the intersection of:
-
-<div align="center">
-
-**TECHNOLOGY** &nbsp; × &nbsp; **DESIGN** &nbsp; × &nbsp; **DIGITAL GROWTH** &nbsp; × &nbsp; **AI**
+<p align="center">
+<a href="https://pratheeshclement-cmd.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://github.com/pratheeshclement-cmd">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/mariya-pratheesh-5b8a9b316/">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:pratheesh.clement@gmail.com">
+<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</p>
 
 </div>
 
----
+<br />
 
-## 02 · WHAT I DO
+## About Me
+
+I'm Pratheesh Clement, a frontend developer and digital marketing specialist working at the intersection of technology, design, growth, and artificial intelligence. My focus is on building clean, performant web experiences with React and TypeScript, while applying an SEO and growth-oriented mindset to how those experiences reach people.
+
+I enjoy turning ideas into modern web products — combining UI/UX, digital marketing, and AI-assisted development workflows to build things that are both well-designed and effective. I'm currently exploring AI engineering, automation, and SaaS product development.
+
+<br />
+
+## What I Do
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ FRONTEND DEVELOPMENT
+**Frontend Development**
 
-Building responsive and purposeful web interfaces with a focus on usability, performance, and clean implementation.
-
-**Core areas**
-
-- React
-- TypeScript
-- JavaScript
-- Responsive Web Development
-- UI Implementation
-- Web Performance
+- React &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; JavaScript
+- Responsive web development
+- UI implementation
+- Web performance
 
 </td>
-
 <td width="50%" valign="top">
 
-### ◈ DIGITAL GROWTH
-
-Combining technology with digital marketing to create experiences designed for visibility, acquisition, and conversion.
-
-**Core areas**
+**Digital Growth**
 
 - SEO
-- Google Ads
-- Meta Ads
-- Analytics
-- Landing Pages
-- Conversion Optimization
+- Google Ads &nbsp;·&nbsp; Meta Ads
+- Analytics & conversion optimization
+- Landing pages
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### ◈ AI & AUTOMATION
+**AI & Automation**
 
-Exploring practical ways to use AI and automation to improve development workflows, research, productivity, and digital systems.
-
-**Core areas**
-
-- AI-assisted Development
-- AI Workflows
-- Automation
-- Workflow Optimization
-- AI Tools
-- Intelligent Systems
+- AI-assisted development
+- AI workflows & automation
+- AI tooling
+- Workflow optimization
 
 </td>
-
 <td width="50%" valign="top">
 
-### ◈ PRODUCT DEVELOPMENT
+**Product Development**
 
-Turning ideas into structured digital products with attention to product experience, architecture, and usability.
-
-**Core areas**
-
-- Web Applications
-- SaaS Concepts
+- Web applications
+- SaaS concepts
 - Product UX
-- Digital Products
 - Prototyping
-- Product Architecture
 
 </td>
 </tr>
 </table>
 
----
+<br />
 
-## 03 · SELECTED WORK
+## Featured Work
 
 ### Personal Portfolio
 
 <div align="center">
-
-<img src="./assets/portfolio-preview.png" width="100%" alt="Pratheesh Clement Personal Portfolio" />
-
+<img src="./assets/portfolio-preview.png" alt="Personal Portfolio preview" width="85%" style="border-radius: 8px; border: 1px solid #E2E8F0;" />
 </div>
 
-<br/>
-
-**A modern personal digital ecosystem combining frontend development, UI/UX, digital marketing, SEO, and AI-assisted experiences.**
-
-**Highlights**
+A modern personal digital ecosystem combining frontend development, UI/UX, digital marketing, SEO, and AI-assisted experiences.
 
 - Responsive interface
 - Modern UI/UX
@@ -162,31 +106,16 @@ Turning ideas into structured digital products with attention to product experie
 - Performance focused
 - AI-assisted experiences
 
-**Built with**
+**Stack:** React · TypeScript · Vite · UI/UX · SEO
 
-`React` `TypeScript` `Vite` `UI/UX` `SEO`
+<a href="https://pratheeshclement-cmd.github.io/"><img src="https://img.shields.io/badge/View%20Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="View Portfolio" /></a>
 
-<br/>
-
-<div align="center">
-
-<a href="https://pratheeshclement-cmd.github.io/">
-
-<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Portfolio" />
-
-</a>
-
-</div>
-
----
+<br />
+<br />
 
 ### NET CENTER
 
-**A service-first digital marketplace concept designed to connect citizens with digital service providers for assisted digital services.**
-
-NET CENTER explores how digital service workflows can be structured into a more accessible and scalable product experience.
-
-**Product areas**
+A service-first digital marketplace concept designed to connect citizens with digital service providers for assisted digital services.
 
 - Service discovery
 - Provider marketplace
@@ -196,212 +125,115 @@ NET CENTER explores how digital service workflows can be structured into a more 
 - Digital assistance
 - Product architecture
 
-**Focus**
+**Focus areas:** Product Development · SaaS · AI · Full Stack
 
-`Product Development` `SaaS` `AI` `Full Stack`
+*Screenshot coming soon.*
 
-> Project interface preview coming soon.
+<br />
 
----
+## Technology
 
-## 04 · TECHNOLOGY
+**Frontend**
 
-### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2563EB?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-2563EB?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-2563EB?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7C3AED?style=flat-square&logo=bootstrap&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend technologies" />
-</p>
+**Backend & Data**
 
-### Backend & Data
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-2563EB?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-2563EB?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-7C3AED?style=flat-square&logo=firebase&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,php,mysql,mongodb,firebase" alt="Backend and data technologies" />
-</p>
+**Design**
 
-### Design & Development
+![Figma](https://img.shields.io/badge/Figma-0F172A?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-2563EB?style=flat-square&logo=adobephotoshop&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=figma,ps,git,github,vscode" alt="Design and development tools" />
-</p>
+**Development**
 
-### Digital Marketing
+![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2563EB?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-7C3AED?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-<div align="left">
+**Digital Marketing**
 
-`SEO` &nbsp; `Google Ads` &nbsp; `Meta Ads` &nbsp; `Google Analytics` &nbsp; `Google Tag Manager`
+![SEO](https://img.shields.io/badge/SEO-0F172A?style=flat-square&logo=googlesearchconsole&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google%20Ads-2563EB?style=flat-square&logo=googleads&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta%20Ads-7C3AED?style=flat-square&logo=meta&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-0F172A?style=flat-square&logo=googleanalytics&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/Tag%20Manager-2563EB?style=flat-square&logo=googletagmanager&logoColor=white)
 
-</div>
+**AI & Automation**
 
-### AI & Automation
+![ChatGPT](https://img.shields.io/badge/ChatGPT-0F172A?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-2563EB?style=flat-square&logo=googlegemini&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-0F172A?style=flat-square&logo=githubcopilot&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-7C3AED?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-2563EB?style=flat-square&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-0F172A?style=flat-square&logo=make&logoColor=white)
 
-<div align="left">
+<br />
 
-`ChatGPT` &nbsp; `Claude` &nbsp; `Google Gemini` &nbsp; `GitHub Copilot` &nbsp; `n8n` &nbsp; `Zapier` &nbsp; `Make`
+## Digital Marketing & Growth
 
-</div>
+Alongside development, I work across the growth side of digital products — SEO, paid advertising (Google Ads, Meta Ads), landing page design, analytics, and conversion optimization. This lets me approach frontend work not just as UI implementation, but as part of a system built to reach and convert real users.
 
----
+<br />
 
-## 05 · DIGITAL MARKETING & GROWTH
+## Currently Exploring
 
-I approach digital marketing from both the **creative and technical side** — connecting discoverability, user experience, analytics, and conversion.
+- AI Engineering
+- AI-assisted Development
+- Automation Systems
+- SaaS Product Development
+- Advanced Frontend Architecture
+- Digital Product Design
 
-<table>
-<tr>
-<td align="center" width="25%">
+<br />
 
-### SEO
-
-Search visibility  
-Technical SEO  
-Content strategy
-
-</td>
-
-<td align="center" width="25%">
-
-### PAID ADS
-
-Google Ads  
-Meta Ads  
-Campaign strategy
-
-</td>
-
-<td align="center" width="25%">
-
-### ANALYTICS
-
-GA4  
-GTM  
-Performance tracking
-
-</td>
-
-<td align="center" width="25%">
-
-### CONVERSION
-
-Landing pages  
-UX optimization  
-Conversion strategy
-
-</td>
-</tr>
-</table>
-
----
-
-## 06 · CURRENTLY EXPLORING
+## GitHub Activity
 
 <div align="center">
-
-| Focus | Direction |
-| :--- | :--- |
-| **AI Engineering** | Building stronger foundations in AI-driven systems |
-| **AI-assisted Development** | Improving development workflows with AI |
-| **Automation Systems** | Designing practical automated workflows |
-| **SaaS Product Development** | Exploring scalable digital product ideas |
-| **Frontend Architecture** | Building cleaner and more maintainable web applications |
-| **Digital Product Design** | Combining UX, technology, and product thinking |
-
+<img src="https://github-readme-stats.vercel.app/api?username=pratheeshclement-cmd&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=0F172A&icon_color=7C3AED" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratheeshclement-cmd&layout=compact&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=0F172A&langs_count=8" width="48%" alt="Top Languages" />
 </div>
 
----
+<br />
 
-## 07 · HOW I BUILD
+## Let's Connect
 
-<div align="center">
-
-### THINK
-
-↓
-
-### DESIGN
-
-↓
-
-### DEVELOP
-
-↓
-
-### TEST
-
-↓
-
-### DEPLOY
-
-↓
-
-### OPTIMIZE
-
-↓
-
-### REPEAT
-
-</div>
-
-<br/>
-
-> **Good products are not finished when they work.  
-> They improve when people use them.**
-
----
-
-## 08 · GITHUB ACTIVITY
+Interested in technology, digital products, frontend development, digital marketing, or AI? Let's connect.
 
 <div align="center">
-
 <a href="https://github.com/pratheeshclement-cmd">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=pratheeshclement-cmd&show_icons=true&hide_border=true&bg_color=F8FAFC&title_color=0F172A&text_color=475569&icon_color=2563EB&rank_icon=github" alt="Pratheesh's GitHub statistics" />
-
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
-<a href="https://github.com/pratheeshclement-cmd">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratheeshclement-cmd&layout=compact&hide_border=true&bg_color=F8FAFC&title_color=0F172A&text_color=475569" alt="Pratheesh's top languages" />
-
+<a href="https://www.linkedin.com/in/mariya-pratheesh-5b8a9b316/">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
+<a href="https://pratheeshclement-cmd.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:pratheesh.clement@gmail.com">
+<img src="https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </div>
 
-<br/>
+<br />
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratheeshclement-cmd&bg_color=F8FAFC&color=0F172A&line=2563EB&point=7C3AED&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+*Build with purpose. Learn continuously. Improve relentlessly.*
+
+Thanks for visiting my profile.
 
 </div>
-
----
-
-## 09 · PROFESSIONAL INTERESTS
-
-```text
-Frontend Development
-        │
-        ├── UI / UX
-        ├── Performance
-        └── Web Architecture
-
-Digital Marketing
-        │
-        ├── SEO
-        ├── Paid Advertising
-        ├── Analytics
-        └── Conversion
-
-Artificial Intelligence
-        │
-        ├── AI-assisted Development
-        ├── Automation
-        ├── AI Workflows
-        └── Product Applications
-
-Product Development
-        │
-        ├── Web Applications
-        ├── SaaS
-        ├── Product UX
-        └── Digital Experiences
